@@ -72,7 +72,7 @@ echo -e "######################################" | lolcat
 
 echo ""
 echo -e "============================" | lolcat
-echo -e $b "1. Install FadilGamers${enda}";
+echo -e $b "1. Install TOOLSV5 TERBARU${enda}";
 echo -e "============================" | lolcat
 echo -e $b "2. Install ToolsV5${endcla}";
 echo -e "============================" | lolcat
@@ -89,11 +89,11 @@ echo -e "============================" | lolcat
 echo -e "╭─[PILIH NOMORNYA]"
 read -p "   ╰─root@./FadilGamers=" pil;
 
-# FadilGamers 
+# TOOLSV5 TERBARU 
 
 case $pil in
 1) pkg install python
-git clone https://github.com/FadilHackers/FadilHackers
+git clone https://github.com/FadilHackers/TOOLSV55
 cd FadilHackers
 
 ;;
